@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\bin\Debug\netcoreapp3.1\Fonskiyon_Cagirma.exe
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\bin\Debug\netcoreapp3.1\Fonskiyon_Cagirma.deps.json
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\bin\Debug\netcoreapp3.1\Fonskiyon_Cagirma.runtimeconfig.json
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\bin\Debug\netcoreapp3.1\Fonskiyon_Cagirma.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\bin\Debug\netcoreapp3.1\Fonskiyon_Cagirma.dll
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\bin\Debug\netcoreapp3.1\Fonskiyon_Cagirma.pdb
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\obj\Debug\netcoreapp3.1\Fonskiyon_Cagirma.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\obj\Debug\netcoreapp3.1\Fonskiyon_Cagirma.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\obj\Debug\netcoreapp3.1\Fonskiyon_Cagirma.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\obj\Debug\netcoreapp3.1\Fonskiyon_Cagirma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\obj\Debug\netcoreapp3.1\Fonskiyon_Cagirma.dll
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\obj\Debug\netcoreapp3.1\Fonskiyon_Cagirma.pdb
+C:\Users\Administrator\source\repos\Fonskiyon_Cagirma\Fonskiyon_Cagirma\obj\Debug\netcoreapp3.1\Fonskiyon_Cagirma.genruntimeconfig.cache
